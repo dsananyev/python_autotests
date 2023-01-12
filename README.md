@@ -1,1 +1,1 @@
-# python_autotests
+Smoke API autotests using pytest and requests
